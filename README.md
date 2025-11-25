@@ -12,7 +12,7 @@
 ### Dashboard Overview
 ![Dashboard](./docs/screenshots/ScreenShot_2025-11-25_115057_792.png)
 ![AI Sights](./docs/screenshots/ScreenShot_2025-11-25_115135_962.png)
-![Detaile Breakdown](./docs/screenshots/ScreenShot_2025-11-25_115230.png)
+![Detaile Breakdown](./docs/screenshots/ScreenShot_2025-11-25_115230_782.png)
 
 
 
@@ -49,7 +49,7 @@ Calendar Vibes is a **privacy-first**, **AI-enhanced** analytics dashboard that 
   - `IELTS` + `ielts` → `IELTS`
   - `Gym 💪` + `Gym` → `Gym 💪`
   - `Boxing 1` + `Boxing 2` → `Boxing`
-  - `外出就餐` + `外出聚餐` → `外出聚餐` (Synonym mapping)
+
 
 - **🎨 Category Tuner (Human-in-the-Loop)**  
   Fine-tune AI classifications through an intuitive UI. Your corrections are cached for future accuracy.
@@ -307,4 +307,4 @@ MIT License - feel free to use this for your own projects!
 
 ---
 
-**Built with ❤️ by a Data Scientist who believes in measuring what matters.**
+
