@@ -10,12 +10,12 @@
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](./docs/screenshots/dashboard.png)
-*Main analytics dashboard with AI-powered insights and interactive charts*
+![Dashboard](./docs/screenshots/ScreenShot_2025-11-25_115057_792.png)
+![AI Sights](./docs/screenshots/ScreenShot_2025-11-25_115135_962.png)
+![Detaile Breakdown](./docs/screenshots/ScreenShot_2025-11-25_115230.png)
 
-### Category Tuner
-![Category Tuner](./docs/screenshots/category-tuner.png)
-*Fine-tune AI classifications with the human-in-the-loop interface*
+
+
 
 ---
 
